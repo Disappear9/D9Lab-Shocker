@@ -15,6 +15,8 @@ https://www.reddit.com/r/estim/comments/uadthp/dg_lab_coyote_review_by_an_electr
 
 https://www.reddit.com/r/estim/comments/vnjr6r/something_you_might_want_to_know_about_estim_and/
 
+电击器电路原理分析
+https://hvprvbo.blogspot.com/2019/10/sm.html
 
 输出规格：  
 1.外接 500Ω 负载时，输出电流不超过：
