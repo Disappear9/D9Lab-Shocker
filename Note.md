@@ -34,3 +34,31 @@ https://github.com/Disappear9/D9Lab-Shocker/blob/main/images/2024-03-16-01-33-14
 2.输出端开路时，输出电压峰值不超过500V.
 
 3.输出单个脉冲不得长于0.1s，能量不超过300mJ
+
+
+===========================================================================
+https://github.com/VRChatNext/Shocking-VRChat/blob/main/README.md  
+- float
+  - /avatar/parameters/pcs/contact/enterPass
+    - 最常用，位于pcs触发入口处，可自动切换跟随被触发的位置
+  - /avatar/parameters/pcs/contact/proximityA
+  - /avatar/parameters/pcs/contact/proximityB
+  - /avatar/parameters/pcs/contact/slide
+    - 不推荐使用，pcs开启后前后移动会触发很多次
+  - /avatar/parameters/pcs/smash-intensity
+  - /avatar/parameters/pcs/sps/pussy
+    - 如果需要仅通过指定位置触发，可尝试 pcs/sps 下的参数，不会跟随auto mode位置变化
+  - /avatar/parameters/pcs/sps/ass
+  - /avatar/parameters/pcs/sps/boobs
+  - /avatar/parameters/pcs/sps/mouth
+  - /avatar/parameters/pcs/sps/penis*
+  - /avatar/parameters/lms-penis-proximityA*
+    - 通过 LMS 触发可以使用的参数
+- bool
+  - /avatar/parameters/pcs/smash-intense
+  - /avatar/parameters/pcs/contact/in
+  - /avatar/parameters/pcs/contact/out
+  - /avatar/parameters/pcs/contact/hit
+  - /avatar/parameters/lms-stroke-in
+  - /avatar/parameters/lms-stroke-out*
+  - /avatar/parameters/lms-stroke-smash
